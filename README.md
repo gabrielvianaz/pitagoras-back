@@ -30,3 +30,7 @@ Exemplo: GET http://localhost:5000/pitagoras?adjacente=5&oposto=12
 ![Exemplo de retorno da API](https://i.imgur.com/8ZFueBF.png)
 
 O retorno fornecido pela API será o valor da hipotenusa, calculado através do Teorema de Pitágoras.
+
+O projeto também está hospedado no Heroku, então é possível acessar a API através do endpoint abaixo, utilizando os parâmetros supracitados.
+
+https://pitagoras-backend.herokuapp.com/pitagoras
